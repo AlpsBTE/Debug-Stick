@@ -1,4 +1,6 @@
 # Debug-Stick
+OUTDATED! DOES NOT WORK WITH MOHIST!
+
 This is a fork of the [Debug-Stick mod](https://github.com/Tfarcenim/Debug-Stick) for Forge 1.12. It has a lighter functionality more similar to the vanilla debug-stick item. This mod can be installed on either the server (no client required) or the client for single player usage.
 
 ### Usage
